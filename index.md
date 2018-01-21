@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to to librehelbreath.
 
-You can use the [editor on GitHub](https://github.com/librehelbreath/librehelbreath.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This project is meant to archive all original source codes of classic MMORPG "Helbreath" made by Siementech.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most of this code is already powering [Helbreath Rocks](http://helbreath.rocks/HelGame/) - first ever web based Helbreath server.
 
-### Markdown
+### Project goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Archive original source code.
+- Integrate all **community** owned source code with correct attribution.
+- Release a stable distribution of open-source Helbreath server back to the community.
+- Learn something and have fun working on open source project.
 
-```markdown
-Syntax highlighted code block
+We're looking for any kind of volunteers: devs, players, testers! Every fan of Helbreath is very welcome to participate in this project.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/librehelbreath/librehelbreath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Join us on our [Discord](https://discord.gg/vmPz9cy) channel for more info!
