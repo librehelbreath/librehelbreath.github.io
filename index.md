@@ -1,8 +1,10 @@
-## Welcome to to librehelbreath.
+## Welcome to librehelbreath.
 
 This project is meant to archive all original source codes of classic MMORPG "Helbreath" made by Siementech.
 
 Most of this code is already powering [Helbreath Rocks](http://helbreath.rocks/HelGame/) - first ever web based Helbreath server.
+
+Community is located at [GitHub](https://github.com/librehelbreath/).
 
 ### Project goals
 
